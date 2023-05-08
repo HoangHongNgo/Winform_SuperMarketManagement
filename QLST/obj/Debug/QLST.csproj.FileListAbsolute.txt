@@ -1,0 +1,17 @@
+C:\Users\Hong Hoang\source\repos\QLST\QLST\bin\Debug\QLST.exe.config
+C:\Users\Hong Hoang\source\repos\QLST\QLST\bin\Debug\QLST.exe
+C:\Users\Hong Hoang\source\repos\QLST\QLST\bin\Debug\QLST.pdb
+C:\Users\Hong Hoang\source\repos\QLST\QLST\bin\Debug\EntityFramework.dll
+C:\Users\Hong Hoang\source\repos\QLST\QLST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hong Hoang\source\repos\QLST\QLST\bin\Debug\EntityFramework.xml
+C:\Users\Hong Hoang\source\repos\QLST\QLST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.csproj.AssemblyReference.cache
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.Mainform.resources
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.csproj.GenerateResource.cache
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.csproj.CoreCompileInputs.cache
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.csproj.CopyComplete
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.exe
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.pdb
+C:\Users\Hong Hoang\source\repos\QLST\QLST\obj\Debug\QLST.Presentation.AddForm.resources
